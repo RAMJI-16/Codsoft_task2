@@ -1,0 +1,138 @@
+
+#header{
+  margin-top: 0px;
+  height: 100px;
+  width: 100vw;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  gap: 30px;
+  font-size: 22px;
+  padding-top: 30px;
+}
+#portfolio{
+  margin-left: 50%;
+  margin-top: 0px;
+  margin-right: 500px;
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#content{
+  height: 300px;
+  /* width: 700px; */
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+display: flex;
+}
+.div_1{
+  height: 450px;
+  width: 98vw;
+  background-color: rgb(205, 139, 215);
+  border: 5px solid red;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+#whoami{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#div_content{
+  font-size: 20px;
+}
+.image{
+  margin-left: auto;
+}
+
+.div_2{
+  height: 590px;
+  width: 98vw;
+  background-color:  rgb(205, 139, 215);
+  border: 5px solid red;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+#myprojects{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#desc{
+  margin-left: 50px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+
+#calculator{
+  font-size: 30px;
+}
+#todolist{
+  font-size: 30px;
+}
+#sms{
+  font-size: 30px;
+}
+
+.div_4{
+  height: 360px;
+  width: 98vw;
+  background-color:  rgb(205, 139, 215);
+  border: 5px solid red;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+#internships{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#desc{
+  margin-left: 50px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#codsoft{
+  font-size: 30px;
+}
+.div_5{
+  height: 360px;
+  width: 98vw;
+  background-color:  rgb(205, 139, 215);
+  border: 5px solid red;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+#eca{
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#desc{
+  margin-left: 50px;
+  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+#sports-activities{
+  font-size: 30px;
+}
+
+.div_3{
+  height: 260px;
+  width: 98vw;
+  background-color:  rgb(205, 139, 215);
+  border: 5px solid red;
+  border-radius: 30px;
+  padding-left: 10px;
+}
+#contactme{
+  font-size: 30px;
+}
